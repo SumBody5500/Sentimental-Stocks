@@ -1,0 +1,5 @@
+/your_project_directory/
+├── app.py
+├── data_fetcher.py
+└── templates/
+    └── index.html
